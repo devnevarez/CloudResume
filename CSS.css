@@ -1,5 +1,5 @@
 * {
-  max-width: 700px;
+  max-width: 1400px;
   margin: auto;
 }
 
@@ -77,7 +77,7 @@ a {
   text-decoration: none;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 430px) {
   .left,
   .right {
     display: none;
